@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "816266179810",
+    "firebase_url": "https://medihochassan-68173.firebaseio.com",
+    "project_id": "medihochassan-68173",
+    "storage_bucket": "medihochassan-68173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816266179810:android:5d3ba0684f2f32c7021abb",
+        "android_client_info": {
+          "package_name": "com.example.new_project_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816266179810-sbjerk0jk7edii1v61bu9j4kbgc8p9oq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.new_project_check",
+            "certificate_hash": "e2c1b1f8f03ebd48b0d517a5c67b60d393b15039"
+          }
+        },
+        {
+          "client_id": "816266179810-ra0bntv4un89co505msi38pnapktr5u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJEXP7aI1ixG3zJEqYC6Zh-LVnM45M0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816266179810-ra0bntv4un89co505msi38pnapktr5u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816266179810:android:8d1cdbc8489e59b1021abb",
+        "android_client_info": {
+          "package_name": "com.example.patient_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816266179810-ra0bntv4un89co505msi38pnapktr5u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJEXP7aI1ixG3zJEqYC6Zh-LVnM45M0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816266179810-ra0bntv4un89co505msi38pnapktr5u0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

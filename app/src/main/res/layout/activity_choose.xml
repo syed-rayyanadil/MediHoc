@@ -1,0 +1,32 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/txtchoose"
+        android:layout_width="wrap_content"
+        android:layout_height="91dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:text="Signup As"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btndoc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="28dp"
+        android:text="Doctor" />
+
+    <Button
+        android:id="@+id/btnpat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="28dp"
+        android:text="Patient" />
+
+</LinearLayout>
